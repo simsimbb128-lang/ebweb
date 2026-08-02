@@ -719,19 +719,18 @@ font-size:17px;
 }
 
 .hero-buttons{
-
+display: flex;
 flex-direction:column;
-
 align-items:center;
+justify-content: center;
+    gap: 15px;
 
 }
-
 .primary-btn,
 .secondary-btn{
-
-width:240px;
-
+width:220px;
 text-align:center;
+margin: 0 auto;
 
 }
 
