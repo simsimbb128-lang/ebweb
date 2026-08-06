@@ -115,7 +115,7 @@ a{
 
 .hero{
     position:relative;
-    height:70vh;
+    height:100vh;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -144,7 +144,7 @@ a{
     width:100%;
     max-width: 850px;
     margin: 0 auto;
-    padding-top: 250px;
+    padding-top: 350px;
 }
 
 .hero-content h1{
@@ -163,6 +163,7 @@ a{
     justify-content:center;
     gap:20px;
     flex-wrap:wrap;
+    margin-top: 300px;
 }
 
 .primary-btn,
