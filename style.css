@@ -115,7 +115,7 @@ a{
 
 .hero{
     position:relative;
-    height:100vh;
+    height:85vh;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -144,7 +144,7 @@ a{
     width:100%;
     max-width: 850px;
     margin: 0 auto;
-    padding-top: 350px;
+    padding-top: 300px;
 }
 
 .hero-content h1{
@@ -163,7 +163,7 @@ a{
     justify-content:center;
     gap:20px;
     flex-wrap:wrap;
-    margin-top: 300px;
+    margin-top: 20px;
 }
 
 .primary-btn,
@@ -185,8 +185,8 @@ a{
 }
 
 .secondary-btn{
-    background:#fff;
-    color:#0b3d91;
+    background:#2d7ad3;
+    color:#e2e5eb;
 }
 
 .secondary-btn:hover{
