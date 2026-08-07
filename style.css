@@ -718,7 +718,10 @@ font-size:34px;
 font-size:17px;
 
 }
-
+.hero-video{
+    object-fit:contain;
+    background:#000;
+}
 .hero-buttons{
 display: flex;
 flex-direction:column;
@@ -726,12 +729,6 @@ align-items:center;
 justify-content: center;
     gap: 15px;
 
-}
-.hero video{
-    width:70%;
-    height:auto;
-    display:block;
-    margin:0 auto;
 }
 .primary-btn,
 .secondary-btn{
