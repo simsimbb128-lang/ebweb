@@ -719,7 +719,7 @@ font-size:17px;
 
 }
 .hero-video{
-    object-fit:contain;
+    object-fit:cover;
     background:#f2f5f5;
 }
 .hero-buttons{
