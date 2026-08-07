@@ -727,6 +727,12 @@ justify-content: center;
     gap: 15px;
 
 }
+.hero video{
+    width:70%;
+    height:auto;
+    display:block;
+    margin:0 auto;
+}
 .primary-btn,
 .secondary-btn{
 width:220px;
